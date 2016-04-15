@@ -1,0 +1,11 @@
+﻿2f569253-2c17-47c8-bf6c-f81e523be1d3-->und\2f569253-2c17-47c8-bf6c-f81e523be1d3
+2f569253-2c17-47c8-bf6c-f81e523be1d3.0-->Form\Форма
+3864ad7b-da80-43ef-85d6-92875f3b434e-->und\3864ad7b-da80-43ef-85d6-92875f3b434e
+510678a0-e7c1-432c-9e5b-b272c82d6d8e-->und\510678a0-e7c1-432c-9e5b-b272c82d6d8e
+510678a0-e7c1-432c-9e5b-b272c82d6d8e.0-->Макеты\СхемаCML.txt
+copyinfo-->und\copyinfo
+e4f72bbf-8e04-444e-aab2-29207270a0c9.0\info-->und\e4f72bbf-8e04-444e-aab2-29207270a0c9.0\info
+e4f72bbf-8e04-444e-aab2-29207270a0c9.0\text-->ObjectModule.txt
+root-->und\root
+version-->und\version
+versions-->und\versions
